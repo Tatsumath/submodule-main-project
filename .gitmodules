@@ -1,0 +1,3 @@
+[submodule "submodule-sub-project"]
+	path = submodule-sub-project
+	url = https://github.com/Tatsumath/submodule-sub-project.git
